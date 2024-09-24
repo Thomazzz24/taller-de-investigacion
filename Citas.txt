@@ -1,0 +1,81 @@
+-------------------------------------------
+- Referencias bibliográficas de proyectos -
+-------------------------------------------
+
+1. https://manglar.uninorte.edu.co/bitstream/handle/10584/11786/Busnav.pdf?sequence=2
+
+2. https://www.sciencedirect.com/science/article/abs/pii/S0926580508000186
+
+3. https://ieeexplore.ieee.org/abstract/document/4124129
+
+4. https://www.life360.com/intl/
+
+5. https://ieeexplore.ieee.org/document/7175504
+
+6. https://ieeexplore.ieee.org/document/5504665
+
+7. https://openaccess.uoc.edu/handle/10609/45608
+
+8. https://manglar.uninorte.edu.co/handle/10584/7296
+
+9. https://d1wqtxts1xzle7.cloudfront.net/49735327/Diseo_de_una_red_que_emplea_telfonos_int20161020-6527-1k7o0nb-libre.pdf?1476956337=&response-content-disposition=inline%3B+filename%3DDiseno_de_una_red_que_emplea_telefonos_i.pdf&Expires=1727200416&Signature=g-2KWdPxZvAqzm0Ke5tz~kKcYR-0G0yv20RsI20PUPVRhliZRMpmEo1pxFz6Ma84BNq2YpY2vAmr8Zve6N5Xhgu0FdHsnOsEbWb6ZmwhqF02zrJ-HIEJwzC8yck9SpEWu2XjOrnLBg~N1pSr9sEsGknA6Erp2z-DCBK4Mwo39W7tQwnKvQO60Z0wrsXWKZsE7RymnUiA71Qv53gpldd25Qo2eLWTTXNuSHGEJnouJFBMDL54XXrNyOvcQgZTMBRN~yg70CTUx6VCtGuODxeXVkijYeMxHrMR3~L1e9kosm4OQhoxFBIBB~i1jija~H1bJ9WtXRNETRplIlVU7G10Pw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+
+10. https://geozilla.com/
+
+11. https://corp.glympse.com/
+
+12. https://www.researchgate.net/profile/Jose-Banares/publication/268286584_Incorporacion_de_componentes_de_visualizacion_SIG_en_entornos_distribuidos_con_tecnologias_COMCORBA_aplicacion_a_un_sistema_de_monitorizacion_de_flotas/links/54bd007e0cf27c8f2812fce8/Incorporacion-de-componentes-de-visualizacion-SIG-en-entornos-distribuidos-con-tecnologias-COM-CORBA-aplicacion-a-un-sistema-de-monitorizacion-de-flotas.pdf
+
+13. https://repositorio.umsa.bo/bitstream/handle/123456789/1734/T-2300.pdf?sequence=1&isAllowed=y
+
+14. https://alicia.concytec.gob.pe/vufind/Record/UUNI_c787135824c1a85a667d3578d6181db7
+
+15. https://repositorio.umsa.bo/handle/123456789/27845
+
+16. https://repositorio.ucv.edu.pe/handle/20.500.12692/9853
+
+17. https://manglar.uninorte.edu.co/handle/10584/11786#page=1
+
+18. https://repositorio.unicordoba.edu.co/server/api/core/bitstreams/777c7cae-089e-4966-8660-4f09cdcab70a/content
+
+19. https://www.researchgate.net/profile/Javier-Dominguez-12/publication/237467702_Breve_Introduccion_a_la_Cartografia_y_a_los_Sistemas_de_Informacion_Geografica_SIG/links/0deec52724b3d7dcc4000000/Breve-Introduccion-a-la-Cartografia-y-a-los-Sistemas-de-Informacion-Geografica-SIG.pdf
+
+20. https://www.proquest.com/openview/dc587bdc2c3025c679850d69a704dcf7/1?pq-origsite=gscholar&cbl=1006393
+
+21. https://www.dspace.espol.edu.ec/handle/123456789/57108
+
+22. https://www.researchgate.net/profile/Leticia-Vega-Martin/publication/332188649_PROYECCION_DE_NUEVAS_TECNOLOGIAS_DE_DIVULGACION_CIENTIFICA_EN_LA_COMUNIDAD_ANDALUZA_A_PARTIR_DE_EXPERIENCIAS_PREVIAS_GUIA_DE_RUTAS_DE_LOS_LUGARES_DE_INTERES_HIDROGEOLOGICO_Y_SU_APLICACION_PARA_MOVILES/links/5d4ae8fe92851cd046a6e333/PROYECCION-DE-NUEVAS-TECNOLOGIAS-DE-DIVULGACION-CIENTIFICA-EN-LA-COMUNIDAD-ANDALUZA-A-PARTIR-DE-EXPERIENCIAS-PREVIAS-GUIA-DE-RUTAS-DE-LOS-LUGARES-DE-INTERES-HIDROGEOLOGICO-Y-SU-APLICACION-PARA-MOVILES.pdf
+
+23. https://repositorio.upeu.edu.pe/server/api/core/bitstreams/9f06fa2f-e9e3-439c-987b-9e4343f49b9c/content
+
+24. https://repositorio.unac.edu.pe/handle/20.500.12952/1585
+
+25. https://dspace.uazuay.edu.ec/handle/datos/2094
+
+26. https://cybertesis.unmsm.edu.pe/backend/api/core/bitstreams/06e5284e-de0a-4173-a882-a5a8f70e5cb4/content
+
+27. https://repositorio.utc.edu.ec/items/5af4fe60-fb90-4275-a4d7-bfab6d5879d2
+
+28. https://tesis.ipn.mx/bitstream/handle/123456789/20519/Reporte%20Tecnico%20Final.pdf?sequence=1&isAllowed=y
+
+29. https://repositorio.umsa.bo/handle/123456789/33958
+
+30. https://repository.universidadean.edu.co/handle/10882/13607
+
+31. https://repositorio.uta.edu.ec/handle/123456789/42686
+
+32. https://openaccess.uoc.edu/handle/10609/149566
+
+33. http://dspace.espoch.edu.ec/handle/123456789/21775
+
+34. https://repositorio.upse.edu.ec/handle/46000/10931 
+
+35. https://openaccess.uoc.edu/handle/10609/149736
+
+36. https://repositorioacademico.upc.edu.pe/handle/10757/671621
+
+37. https://dspace.itb.edu.ec/handle/123456789/3880
+
+38. 
+
+
